@@ -1,6 +1,7 @@
 # Iedereen zijn huizen gaan hier onder staan
 
 -41 71 39	Nick zijn blockhut
+2110 71 -1791	Lucas zijn laboratorium
 
 # lijst van coordinaten in deze wereld
 
